@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC664_Proj.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC664_Proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CSC664_Proj.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CSC664_Proj.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/157346390/CSC664_Proj.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/157346390/CSC664_Proj.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1752158399/CSC664_Proj.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1752158399/CSC664_Proj.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/454327146/CSC664_Proj.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/454327146/CSC664_Proj.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1577654325/CSC664_Proj.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1577654325/CSC664_Proj.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
