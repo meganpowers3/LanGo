@@ -289,7 +289,7 @@ render(){
      </View>
     </TouchableOpacity>
 
-       <TouchableOpacity onPress={() => {this.selectionOnPress("BASIC"); this.props.navigation.navigate('Home');}}>
+       <TouchableOpacity onPress={() => {this.selectionOnPress("BASIC"); this.props.navigation.navigate('Settings');}}>
         <View style = {{
           backgroundColor: this.state.selectedButton === "BASIC"
                                 ? '#35d8db'
